@@ -72,3 +72,8 @@ El proyecto se ejecuta en dos pasos principales:
     python 2_entrenar_modelo.py
     ```
     La salida incluirá métricas como MAE, RMSE y R².
+
+
+## Pruebas realizadas
+
+![Pruebas](./pruebas%20realizadas/Pruebas.png)
