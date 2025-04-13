@@ -72,5 +72,3 @@ El proyecto se ejecuta en dos pasos principales:
     python 2_entrenar_modelo.py
     ```
     La salida incluirá métricas como MAE, RMSE y R².
-
-## 📁 Estructura de Archivos (Sugerida)
